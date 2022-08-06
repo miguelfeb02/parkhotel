@@ -1,0 +1,117 @@
+{
+  "project_info": {
+    "project_number": "152291159097",
+    "firebase_url": "https://parkhotelapp123.firebaseio.com",
+    "project_id": "parkhotelapp123",
+    "storage_bucket": "parkhotelapp123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152291159097:android:cb037d92ee193caa80b1e8",
+        "android_client_info": {
+          "package_name": "com.parkhotelsmr.sistemas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152291159097-dq17bebf26qse2dqjclakc08e7fis000.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parkhotelsmr.sistemas",
+            "certificate_hash": "3dbc3c39df357a21a0a5c249de787c37e8c04658"
+          }
+        },
+        {
+          "client_id": "152291159097-n6fj7aiemsh0phrfoee9pmvesh2s4snt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parkhotelsmr.sistemas",
+            "certificate_hash": "bbcd813fdb4ac4a7d2a1a590b756cf41d6fc1464"
+          }
+        },
+        {
+          "client_id": "152291159097-v6railmqehohcchd5tg60d3rgl1gg05m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.parkhotelsmr.sistemas",
+            "certificate_hash": "8ef3eab767ae5cd101d355ea7a7e1d42c1270b79"
+          }
+        },
+        {
+          "client_id": "152291159097-689dpoa8rrj19s096njldofrrnvcct8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5BXv4KcDcBxRAfWZvvkhFcnF6I18J48I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152291159097-689dpoa8rrj19s096njldofrrnvcct8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152291159097:android:d2d7489f39e9cbc380b1e8",
+        "android_client_info": {
+          "package_name": "com.sistemas.parkhotel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "152291159097-if69dd30ssc71uh1cb5cnk7lsu8c1kkd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sistemas.parkhotel",
+            "certificate_hash": "bbcd813fdb4ac4a7d2a1a590b756cf41d6fc1464"
+          }
+        },
+        {
+          "client_id": "152291159097-lvp6vh2va99fr3ia4m6kc1vi25nlg6p6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sistemas.parkhotel",
+            "certificate_hash": "3dbc3c39df357a21a0a5c249de787c37e8c04658"
+          }
+        },
+        {
+          "client_id": "152291159097-up6n1oil0o9b9buf9jei9agj0ffg8r5j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sistemas.parkhotel",
+            "certificate_hash": "8ef3eab767ae5cd101d355ea7a7e1d42c1270b79"
+          }
+        },
+        {
+          "client_id": "152291159097-689dpoa8rrj19s096njldofrrnvcct8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5BXv4KcDcBxRAfWZvvkhFcnF6I18J48I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "152291159097-689dpoa8rrj19s096njldofrrnvcct8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
